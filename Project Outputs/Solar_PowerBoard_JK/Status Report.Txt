@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Solar_PowerBoard.PrjPcb]
+   Generated File[Solar_PowerBoard_JK.TXT]
+   Generated File[Solar_PowerBoard_JK-RectHoles.TXT]
+   Generated File[Solar_PowerBoard_JK.LDP]
+   Generated File[Solar_PowerBoard_JK.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 21:02:15 On 2.03.2026
