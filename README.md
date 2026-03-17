@@ -44,6 +44,9 @@ Converter specifications:
 ---
 
 <img width="557" height="714" alt="image" src="https://github.com/user-attachments/assets/0dc23a28-c8f5-4e5c-a2ad-b90776dafc35" />
+
 Altium Designer 2D view
-![PDB bez komponentów](https://github.com/user-attachments/assets/17969aaa-fec0-4953-b79f-d7ba03aadd25)
+
+<img width="399" height="352" alt="image" src="https://github.com/user-attachments/assets/7a931e29-f5df-4d57-9d17-4cf353ee32e7" />
+
 Unsoldered physical PCB
