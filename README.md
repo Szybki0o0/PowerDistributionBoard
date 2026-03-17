@@ -44,6 +44,7 @@ Converter specifications:
 ---
 
 BOM:
+
 <img width="529" height="400" alt="image" src="https://github.com/user-attachments/assets/ea939118-3430-464e-a58f-75b224010acf" />
 
 ---
