@@ -3,7 +3,7 @@
 ## Overview
 This project is a **Power Distribution Board (PDB) with integrated DC-DC converter** designed to distribute power from a single input source to multiple loads while providing regulated voltage outputs.
 
-The board is intended for drone: fixed & rotary wing applications.
+The board is intended for drone: fixed & rotary wing applications. In TPS54560.docx are calculations for buck converter.
 
 ---
 
