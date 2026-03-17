@@ -43,6 +43,11 @@ Converter specifications:
 
 ---
 
+BOM:
+<img width="529" height="400" alt="image" src="https://github.com/user-attachments/assets/ea939118-3430-464e-a58f-75b224010acf" />
+
+---
+
 <img width="557" height="714" alt="image" src="https://github.com/user-attachments/assets/0dc23a28-c8f5-4e5c-a2ad-b90776dafc35" />
 
 Altium Designer 2D view
